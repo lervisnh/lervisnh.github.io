@@ -1,0 +1,18 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "lervisnh's site"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+
+[author]
+  name = "lervisnh"
+  image = "img/lervisnh_github.jpg"
+  links = [
+    { github = "https://github.com/lervisnh/" },
+  ]
+
+  

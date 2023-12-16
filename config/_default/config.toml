@@ -1,0 +1,3 @@
+theme = "blowfish"
+baseURL = "https://github.com/lervisnh/lervisnh.github.io/"
+defaultContentLanguage = "en"
