@@ -11,9 +11,10 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Docs"
-  pageRef = "docs"
+  name = "CS-Basis"
+  pageRef = "cs_basis"
   weight = 10
+  url = "/cs_basis"
 
 [[main]]
   name = "Shortcodes"

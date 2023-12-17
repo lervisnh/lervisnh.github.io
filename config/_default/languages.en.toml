@@ -3,6 +3,9 @@ languageName = "English"
 weight = 1
 title = "lervisnh's site"
 
+# 是否包括中日韩文字
+hasCJKLanguage = true
+
 [params]
   displayName = "EN"
   isoCode = "en"
@@ -11,6 +14,7 @@ title = "lervisnh's site"
 [author]
   name = "lervisnh"
   image = "img/lervisnh_github.jpg"
+  email = "lervisnh@gmail.com"
   links = [
     { github = "https://github.com/lervisnh/" },
   ]
