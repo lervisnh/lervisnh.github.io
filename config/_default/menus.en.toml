@@ -11,10 +11,10 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "CS-Basis"
-  pageRef = "cs_basis"
+  name = "C++"
+  pageRef = "cpp"
   weight = 10
-  url = "/cs_basis"
+  url = "/cpp"
 
 [[main]]
   name = "Shortcodes"
