@@ -15,10 +15,10 @@
   pageRef = "cpp"
   weight = 10
 
-# [[main]]
-#   name = "Reading"
-#   pageRef = "reading"
-#   weight = 15
+[[main]]
+  name = "Reading"
+  pageRef = "reading"
+  weight = 15
 
 # [[main]]
 #   name = "Samples"
