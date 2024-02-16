@@ -468,7 +468,7 @@ draft = false
 
 6. 开源工具搭建
 
-   <img src="/images/reading/computational_advertising/system_arch_opensource.jpg" style="zoom: 67%;" />
+   <img src="/images/reading/computational_advertising/system_arch_opensource.png" style="zoom: 67%;" />
 
 ## 计算广告技术
 
