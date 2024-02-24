@@ -27,17 +27,18 @@
 
 [[main]]
   name = "Finance"
+  pageRef = "finance"
   weight = 20
 
-[[main]]
-  name = "量化"
-  parent = "Finance"
-  weight = 30
+# [[main]]
+#   name = "量化"
+#   parent = "Finance"
+#   weight = 30
 
-[[main]]
-  name = "数据"
-  parent = "Finance"
-  weight = 40
+# [[main]]
+#   name = "数据"
+#   parent = "Finance"
+#   weight = 40
 
 # [[main]]
 #   name = "Users"
